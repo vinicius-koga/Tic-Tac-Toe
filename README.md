@@ -2,7 +2,7 @@
 
 Jogo da Velha feito totalmente em Javascript.
 
-#### Tecnologias Útilizadas:
+### Tecnologias Útilizadas:
 <ul>
   <li>HTML</li>
   <li>CSS</li>
